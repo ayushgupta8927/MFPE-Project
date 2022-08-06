@@ -1,0 +1,26 @@
+/* 
+.right a{
+    right: 10%;
+    position:absolute;
+    display: inline;
+    border: 2px solid purple;
+    background-color: beige;
+    border-radius: 10%;
+    padding: 3px;
+    font-size: 120%;
+    text-decoration: none;
+  } */
+
+h5{
+  color: rgb(208, 67, 23);
+}
+p{
+  color: black;
+}
+.box{
+  display: inline-block;
+  z-index: -1;
+}
+.like{
+  padding-right: 10%;
+}
